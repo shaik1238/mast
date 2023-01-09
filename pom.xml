@@ -75,7 +75,7 @@
   <distributionManagement>
     <repository>
       <id>releases</id>
-      <url>http://192.168.60.5:8081/repository/first/</url>
+      <url>http://192.168.60.5:8081/repository/first-release/</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
