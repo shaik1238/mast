@@ -79,7 +79,7 @@
     </repository>
     <snapshotRepository>
       <id>sap</id>
-      <url>http://192.168.60.5:8081/repository/first/</url>
+      <url>http://192.168.60.5:8081/repository/mast-release/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
